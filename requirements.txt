@@ -11,3 +11,5 @@ python-dotenv
 chardet
 retry
 bs4
+lightgbm
+catboost
